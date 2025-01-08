@@ -1,0 +1,22 @@
+{
+    "port": 3000,
+    "db_host": "localhost",
+    "db_username": "postgres",
+    "db_port": 5432,
+    "db_password" : "parol",
+    "db_name" : "e-navbat",
+    "expiration_time" : 3,
+    "crypt_password" : "MySecretPassword",
+    "iv" : "parol123",
+    "smtp_password" : "nxonzgxwjvdkjpxh",
+    "smtp_user" : "abdulazizbekabdusodiqov@gmail.com",
+    "smtp_host" : "smtp.gmail.com",
+    "smtp_port" : 587,
+    "tokenKey": "JsonSecretTokenKeys",
+    "tokenTime": "1d",
+    "access_key": "AccessTokenSecretKey",
+    "refresh_key": "RefreshTokenSecretKey",
+    "access_time": "15h",
+    "refresh_time": "30d",
+    "refresh_token_ms" : 1296000000
+}

@@ -1,0 +1,23 @@
+{
+  "name": "e-navbat",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.12",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-device-detector": "^2.1.6",
+    "otp-generator": "^4.0.1",
+    "pg": "^8.13.1",
+    "uuid": "^11.0.4"
+  }
+}
